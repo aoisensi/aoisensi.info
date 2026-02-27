@@ -1,9 +1,39 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# こんにちは @aoisensi です
 
-::github{repo="saicaca/fuwari"}
+## 自己紹介
+He/Him 日本人 20+
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+オタク PCゲーマー プログラマー 翻訳者
+
+[GhostNailz](https://wvuvw.games)で新作インディーズゲームを創っています
+
+## リンク
+- [Bluesky](https://bsky.app/profile/aoisensi.info)
+- [Steam](https://steamcommunity.com/id/aoisensi)
+- [GitHub](https://github.com/aoisensi)
+- [Twitch](https://twitch.tv/aoisensi)
+- メールアドレス = `me _at_ aoisensi.info`
+- Discord = `@aoisensi`
+
+## 携わったプロジェクト
+- [Dota2非公式日本語化MOD](https://github.com/nihongoka/dota2) (Dota2というゲームの非公式日本語化MOD) (リーダー 翻訳)
+- [REVERIE](/posts/2026/02/27/omori-reverie) (OMORIというゲームの大型ストーリー追加MODの日本語版) (ローカライズ スクリプト調整)
+- [Oyasumi Space](https://oyasumi.space) (OMORIプレイヤー向けMastodonインスタンス) (テーマ追加 運営)
+- [OneShot: The Pancake Episode](https://futurecatgames.itch.io/oneshot-pancake-episode) (OneShotというゲームの公式追加おまけストーリー) (公式ローカライズ)
+- [Pink Tinted Love Stories](https://mods.one/mod/pinktintedlove) (OMORIというゲームのストーリー追加MODの日本語版) (スクリプト調整)
+- [MODS.ONE](https://mods.one/) (OMORIというゲーム専用の非公式MOD配布サイト) (ローカライズ)
+
+
+## 好きなゲーム
+### シングル
+- OMORI
+- Celeste
+- OneShot
+- Portal
+- vivid/stasis
+- ぼくのカードのほーがきみのよりすごいもん！
+### マルチ
+- Dota 2
+- ARC Raiders
+- Team Fortress
+- Apex Legends
