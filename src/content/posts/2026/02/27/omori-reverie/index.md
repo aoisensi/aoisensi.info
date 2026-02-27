@@ -5,7 +5,7 @@ description: ''
 image: 'header-ch4.webp'
 tags: ['Game', 'OMORI', 'Mod', 'Reverie']
 category: 'Reverie'
-draft: true
+draft: false
 lang: 'ja'
 ---
 

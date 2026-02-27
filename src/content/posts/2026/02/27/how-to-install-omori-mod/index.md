@@ -5,7 +5,7 @@ description: ''
 image: ''
 tags: ['Game', 'OMORI', 'Mod']
 category: 'Info'
-draft: true
+draft: false
 lang: 'ja'
 ---
 
