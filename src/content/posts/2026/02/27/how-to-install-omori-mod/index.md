@@ -24,7 +24,7 @@ OMORIのMODで遊ぶには必ず[Steam版のOMORI](https://store.steampowered.co
 基本的に最新版を使うようにしてください。
 
 <video controls preload="metadata" playsinline>
-  <source src="/public/video/how-to-install-omori-mod/sb01.mp4" type="video/mp4"/>
+  <source src="/video/how-to-install-omori-mod/sb01.mp4" type="video/mp4"/>
 </video>
 
 # OneLoaderのインストール
@@ -42,7 +42,7 @@ OneLoaderのzipファイルの中身をゲームフォルダに貼り付けま�
 出てこなければなにか間違えています。
 
 <video controls preload="metadata" playsinline>
-  <source src="/public/video/how-to-install-omori-mod/sb02.mp4" type="video/mp4"/>
+  <source src="/video/how-to-install-omori-mod/sb02.mp4" type="video/mp4"/>
 </video>
 
 # OneLoader以外のMODファイルのコピー
@@ -56,7 +56,7 @@ OneLoader以外のあなたが入れたいMODファイルをゲームフォル�
 MODを外したいときはその`.zip`ファイルをここから取り除くだけでOKです。
 
 <video controls preload="metadata" playsinline>
-  <source src="/public/video/how-to-install-omori-mod/sb03.mp4" type="video/mp4"/>
+  <source src="/video/how-to-install-omori-mod/sb03.mp4" type="video/mp4"/>
 </video>
 
 # 注意点
