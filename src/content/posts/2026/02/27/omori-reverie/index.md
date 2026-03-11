@@ -3,8 +3,8 @@ title: OMORI REVERIE CH4 日本語版
 published: 2026-02-27
 description: ''
 image: 'header-ch4.webp'
-tags: ['Game', 'OMORI', 'Mod', 'Reverie']
-category: 'Reverie'
+tags: ['game', 'omori', 'mod', 'omori-reverie']
+category: 'Debut'
 draft: false
 lang: 'ja'
 ---

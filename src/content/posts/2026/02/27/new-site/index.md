@@ -3,7 +3,7 @@ title: 新サイト
 published: 2026-02-27
 description: ''
 image: ''
-tags: ['Blog']
+tags: ['blog']
 category: 'Blog'
 draft: false
 lang: 'ja'
