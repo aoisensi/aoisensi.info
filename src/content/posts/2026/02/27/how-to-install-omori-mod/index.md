@@ -3,7 +3,7 @@ title: OMORIのMODのインストール方法
 published: 2026-02-27
 description: ''
 image: ''
-tags: ['game', 'omori', 'mod'. 'omori-reverie']
+tags: ['game', 'omori', 'mod', 'omori-reverie']
 category: 'Debut'
 draft: false
 lang: 'ja'
